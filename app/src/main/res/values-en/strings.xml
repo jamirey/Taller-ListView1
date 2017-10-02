@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taller Listview</string>
+    <string name="Areas">Areas</string>
+    <string name="Circulo">Circle</string>
+    <string name="Cuadrado">Square</string>
+    <string name="Cubo">Cube</string>
+    <string name="No">No</string>
+    <string name="OperacionesRealizadas">Operations carried out</string>
+    <string name="Rectangulo">Rectangle</string>
+    <string name="Resultado">Result</string>
+    <string name="Triangulo">Triangle</string>
+    <string name="ValorBase">Base Amount:</string>
+    <string name="Volumen">Volume</string>
+    <string name="Volumenes">Volumes</string>
+    <string name="borrar">DELETE</string>
+    <string name="calcular">CALCULATE</string>
+    <string name="cilindro">Cylinder</string>
+    <string name="cono">Cone</string>
+    <string name="cubo">Cube</string>
+    <string name="dato2">Fact 2</string>
+    <string name="datos">Data</string>
+    <string name="esfera">Sphere</string>
+    <string name="lado1">Side 1 :</string>
+    <string name="lado2">Side 2 :</string>
+    <string name="opcstringiones">OPTIONS</string>
+    <string name="ok">OK</string>
+    <string name="operacion">Operation</string>
+    <string name="resultado">Result</string>
+    <string name="valoraltura">Value Height :</string>
+    <string name="valordellado">Value of the Side</string>
+    <string name="valorradio">Radio Value:</string>
+</resources>

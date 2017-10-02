@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Taller Listview</string>
+    <string name="opcstringiones">OPCIONES</string>
+    <string name="Areas">Areas</string>
+    <string name="Volumenes">Volumenes</string>
+    <string name="OperacionesRealizadas">Operaciones Realizadas</string>
+    <array name="Valores">
+        <item>@string/Areas</item>
+        <item>@string/Volumenes</item>
+        <item>@string/OperacionesRealizadas</item>
+    </array>
+    <string name="Cuadrado">Cuadrado</string>
+    <string name="Rectangulo">Rectangulo</string>
+    <string name="Triangulo">Triangulo</string>
+    <string name="Circulo">Circulo</string>
+    <string name="valordellado">Valor del Lado</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="borrar">BORRAR</string>
+    <string name="Resultado">Resultado</string>
+    <string name="ok">OK</string>
+    <string name="No">No.</string>
+    <string name="operacion">Operacion</string>
+    <string name="datos">Datos</string>
+    <string name="resultado">Resultado</string>
+    <string name="ValorBase">Valor Base :</string>
+    <string name="valoraltura">Valor Altura :</string>
+    <string name="dato2">Dato 2</string>
+    <string name="lado1">Lado 1 :</string>
+    <string name="lado2">Lado 2 :</string>
+    <string name="valorradio">Valor del Radio :</string>
+
+    <array name="ValoresAreas">
+        <item>@string/Cuadrado</item>
+        <item>@string/Rectangulo</item>
+        <item>@string/Triangulo</item>
+        <item>@string/Circulo</item>
+    </array>
+
+    <array name="ValoresVolumen">
+        <item>@string/esfera</item>
+        <item>@string/cilindro</item>
+        <item>@string/cono</item>
+        <item>@string/cubo</item>
+    </array>
+    <string name="esfera">Esfera</string>
+    <string name="cilindro">Cilindro</string>
+    <string name="cono">Cono</string>
+    <string name="cubo">Cubo</string>
+    <string name="Cubo">Cubo</string>
+    <string name="Volumen">Volumen :</string>
+
+</resources>
